@@ -1,6 +1,6 @@
 # Redis
 
-- [Redis](#redis)
+- [Redis](#Redis)
   - [分布式秒杀功能为什么不用decr](#分布式秒杀功能为什么不用decr)
 
 ### 分布式秒杀功能为什么不用decr
